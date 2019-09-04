@@ -10,7 +10,7 @@
   "private": true,
   "version": "2.27.0",
   "dependencies": {
-    "ghost": "2.15.0",
+    "ghost": "^2.30.2",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^1.1.4",
     "mysql": "^2.17.1"
