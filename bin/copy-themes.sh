@@ -5,6 +5,7 @@ themes=(
 	massively
 	bleak
 	the-shell
+	staypuft
 	vapor
 )
 
